@@ -1,0 +1,142 @@
+   Thu Oct 31  silly@silly-linoox-2  Bash 5.2.37 
+(~/proojukts/maxwell-bot-headless) $ deno run -A main.ts
+Websocket connection opened
+<Buffer 85 a4 74 79 70 65 a4 6e 61 6d 65 a4 75 75 69 64 d9 24 64 38 38 38 63 35 37 30 2d 36 30 35 62 2d 34 37 31 39 2d 39 38 39 31 2d 65 30 36 64 63 66 33 63 ... >
+got uuid d888c570-605b-4719-9891-e06dcf3c7362
+token payload eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJOYW1lIjoiQWxwaG9uc3VzIiwiRmxhZ0Vtb2ppIjoiIiwiSVAiOiIxNzguMTUwLjQyLjUiLCJleHAiOjE3MzA0NTg2NTV9.8R27vnnIVuNbmoanTFOHpNVvNQ2BrOU0ODQJ0YeVdws
+got name token and name eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJOYW1lIjoiQWxwaG9uc3VzIiwiRmxhZ0Vtb2ppIjoiIiwiSVAiOiIxNzguMTUwLjQyLjUiLCJleHAiOjE3MzA0NTg2NTV9.8R27vnnIVuNbmoanTFOHpNVvNQ2BrOU0ODQJ0YeVdws Alphonsus 
+<Buffer 83 a4 74 79 70 65 a6 74 61 72 67 65 74 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2c fc 20 b5 c2 6a 94 cb 00 00 00 00 00 00 00 00 cb 40 1b 2f ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb 40 28 1d 85 79 0e 06 14 cb 00 00 00 00 00 00 00 00 cb 40 23 b9 bc 5e f3 10 33 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 30 46 a3 48 b2 e8 9e cb 00 00 00 00 00 00 00 00 cb c0 25 4a b7 be c8 b6 c8 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1b a1 71 f2 d8 96 83 cb 00 00 00 00 00 00 00 00 cb 40 18 5c b7 a6 c2 32 d4 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 09 8e ce 98 96 df 1c cb 00 00 00 00 00 00 00 00 cb c0 36 f0 43 f9 1e 16 e2 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 30 38 2b 33 4e 47 0c cb 00 00 00 00 00 00 00 00 cb c0 24 2f b4 bf a0 f8 68 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 0a 4e 3b 5b b7 3d 0d cb 00 00 00 00 00 00 00 00 cb c0 36 b4 e8 2a a0 24 40 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 30 2e 68 18 72 66 81 cb 00 00 00 00 00 00 00 00 cb c0 23 70 c2 d9 41 0d fc aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 0a e7 5f 2b 04 55 01 cb 00 00 00 00 00 00 00 00 cb c0 36 85 6b 85 6e 95 58 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb 40 2e 40 7e d2 56 96 c8 cb 00 00 00 00 00 00 00 00 cb c0 14 fc 26 18 e9 24 c0 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 30 1f f4 78 24 af 5d cb 00 00 00 00 00 00 00 00 cb c0 22 56 17 09 8a 12 1c aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 0b 80 82 fa 51 6c f5 cb 00 00 00 00 00 00 00 00 cb c0 36 55 ee e0 3d 06 70 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 30 16 4f 14 8c 42 e1 cb 00 00 00 00 00 00 00 00 cb c0 21 99 6a 5f 6f 84 10 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 0c 19 a6 c9 9e 84 e9 cb 00 00 00 00 00 00 00 00 cb c0 36 26 72 3b 0b 77 88 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 18 4a 40 bb 97 a1 20 cb 00 00 00 00 00 00 00 00 cb 3f ec 73 de 21 7a 1f 30 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 30 07 b1 da 13 50 d1 cb 00 00 00 00 00 00 00 00 cb c0 20 7b 90 d4 f1 1d 90 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 0c b2 ca 98 eb 9c dd cb 00 00 00 00 00 00 00 00 cb c0 35 f6 f5 95 d9 e8 a0 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2f fc 12 fb 81 e4 a7 cb 00 00 00 00 00 00 00 00 cb c0 1f 7d 54 16 6c 0c 90 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 0d 4b ee 68 38 b4 d1 cb 00 00 00 00 00 00 00 00 cb c0 35 c7 78 f0 a8 59 b8 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 0d e5 12 37 85 cc c5 cb 00 00 00 00 00 00 00 00 cb c0 35 97 fc 4b 76 ca d0 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2f df 6d 1a e1 40 2d cb 00 00 00 00 00 00 00 00 cb c0 1d 4c fb 2e c9 b2 a0 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2f cc 04 9c 6c f5 78 cb 00 00 00 00 00 00 00 00 cb c0 1b d1 5c 9e 4f 67 88 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 0e 7e 36 06 d2 e4 b9 cb 00 00 00 00 00 00 00 00 cb c0 35 68 7f a6 45 3b e8 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2f ae d0 18 ee f3 0a cb 00 00 00 00 00 00 00 00 cb c0 19 96 1d c8 93 7f a0 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 0f 25 57 0f 8f 65 ab cb 00 00 00 00 00 00 00 00 cb c0 35 39 cd 86 15 ab 37 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2f 9b 79 6e d6 52 0a cb 00 00 00 00 00 00 00 00 cb c0 18 1b db f5 dc 3e 90 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2f 87 fc 23 4c 68 22 cb 00 00 00 00 00 00 00 00 cb c0 16 9e a6 87 fe 1c 28 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 10 07 81 76 c8 4c 60 cb 00 00 00 00 00 00 00 00 cb c0 35 0f d9 6c ec 42 5d aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 10 c4 7e 00 90 bd 21 cb 00 00 00 00 00 00 00 00 cb c0 34 e4 ea 5a f2 43 1e aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2f 6a f4 32 b3 94 f3 cb 00 00 00 00 00 00 00 00 cb c0 14 66 cf 8c aa 55 80 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1f 27 72 06 ad b5 63 cb 00 00 00 00 00 00 00 00 cb 40 1b 07 b5 1e 42 da dc aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 11 76 b0 9b 08 fe df cb 00 00 00 00 00 00 00 00 cb c0 34 cb d7 e9 95 86 65 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2f 4e 3c 7d b7 44 70 cb 00 00 00 00 00 00 00 00 cb c0 12 35 19 e7 44 c4 20 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 12 30 30 dd 1b 54 0f cb 00 00 00 00 00 00 00 00 cb c0 34 b6 25 62 8a fa 4d aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2f 3a f4 af 40 5e a2 cb 00 00 00 00 00 00 00 00 cb c0 10 bb fa b2 b0 47 f0 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 12 e9 b1 1f 2d a9 3f cb 00 00 00 00 00 00 00 00 cb c0 34 a0 72 db 80 6e 35 aa 71 75 61 74 65 72 ... >
+<Buffer 83 a4 74 79 70 65 aa 64 69 73 63 6f 6e 6e 65 63 74 a4 75 75 69 64 d9 24 62 33 63 34 34 39 30 32 2d 65 63 65 30 2d 34 63 38 30 2d 38 39 35 39 2d 65 31 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2f 1d 93 98 dd 2f 47 cb 00 00 00 00 00 00 00 00 cb c0 0c fa a8 05 18 d8 70 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 13 a3 31 61 3f fe 6f cb 00 00 00 00 00 00 00 00 cb c0 34 8a c0 54 75 e2 1d aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2f 0a 45 d8 f2 65 76 cb 00 00 00 00 00 00 00 00 cb c0 0a 07 81 1d 6d bb 20 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 14 5c b1 a3 52 53 9f cb 00 00 00 00 00 00 00 00 cb c0 34 75 0d cd 6b 56 05 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2e ed 7f 48 54 5c 15 cb 00 00 00 00 00 00 00 00 cb c0 05 a1 d0 96 5d 69 70 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 15 16 31 e5 64 a8 cf cb 00 00 00 00 00 00 00 00 cb c0 34 5f 5b 46 60 c9 ed aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2e da 22 ac c7 d7 13 cb 00 00 00 00 00 00 00 00 cb c0 02 ac 64 72 6c c2 60 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2e bc e8 37 d5 f2 f4 cb 00 00 00 00 00 00 00 00 cb bf fc 69 fc 90 e6 50 e0 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 16 89 32 69 89 53 2f cb 00 00 00 00 00 00 00 00 cb c0 34 33 f6 38 4b b1 bd aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 17 42 b2 ab 9b a8 5f cb 00 00 00 00 00 00 00 00 cb c0 34 1e 43 b1 41 25 a5 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2e 8c d3 e7 4d 1f c2 cb 00 00 00 00 00 00 00 00 cb bf eb 70 9b 66 de e5 c0 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 18 2a 92 fe 32 92 db cb 00 00 00 00 00 00 00 00 cb c0 34 03 24 88 73 f6 87 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb 40 10 32 b9 8c fc 27 94 cb 00 00 00 00 00 00 00 00 cb c0 1b 5f cf d8 f9 37 15 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 18 e4 13 40 44 e8 0b cb 00 00 00 00 00 00 00 00 cb c0 33 ed 72 01 69 6a 6f aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2e 5c 9e e6 c6 e5 57 cb 00 00 00 00 00 00 00 00 cb 3f b0 35 e9 99 f5 c6 00 aa 71 75 61 74 65 72 ... >
+<Buffer 83 a4 74 79 70 65 ab 63 6c 69 65 6e 74 43 6f 75 6e 74 a5 63 6f 75 6e 74 d3 00 00 00 00 00 00 00 0c a4 74 69 6d 65 d3 00 00 01 92 e2 39 43 fc>
+<Buffer 85 a4 74 79 70 65 a4 6e 61 6d 65 a4 75 75 69 64 d9 24 64 38 38 38 63 35 37 30 2d 36 30 35 62 2d 34 37 31 39 2d 39 38 39 31 2d 65 30 36 64 63 66 33 63 ... >
+got uuid d888c570-605b-4719-9891-e06dcf3c7362
+token payload eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJOYW1lIjoiQWxwaG9uc3VzIiwiRmxhZ0Vtb2ppIjoiIiwiSVAiOiIxNzguMTUwLjQyLjUiLCJleHAiOjE3MzA0NTg2NTZ9.daAgc5na34CXmymyz7UWfeg4aFk0hlWDe6TZCupHXMA
+[
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+  "eyJOYW1lIjoiQWxwaG9uc3VzIiwiRmxhZ0Vtb2ppIjoiIiwiSVAiOiIxNzguMTUwLjQyLjUiLCJleHAiOjE3MzA0NTg2NTZ9",
+  "daAgc5na34CXmymyz7UWfeg4aFk0hlWDe6TZCupHXMA"
+]
+[
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+  "eyJOYW1lIjoiQWxwaG9uc3VzIiwiRmxhZ0Vtb2ppIjoiIiwiSVAiOiIxNzguMTUwLjQyLjUiLCJleHAiOjE3MzA0NTg2NTV9",
+  "8R27vnnIVuNbmoanTFOHpNVvNQ2BrOU0ODQJ0YeVdws"
+]
+[
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+  "eyJOYW1lIjoiQWxwaG9uc3VzIiwiRmxhZ0Vtb2ppIjoiIiwiSVAiOiIxNzguMTUwLjQyLjUiLCJleHAiOjE3MzA0NTg2NTZ9",
+  "daAgc5na34CXmymyz7UWfeg4aFk0hlWDe6TZCupHXMA"
+]
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2e 48 c2 83 fe bd 92 cb 00 00 00 00 00 00 00 00 cb 3f dc 55 10 85 6f 3a 80 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1a 57 13 c4 69 92 6b cb 00 00 00 00 00 00 00 00 cb c0 33 c2 0c f3 54 52 3f aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb 40 28 1d 85 79 0e 06 14 cb 00 00 00 00 00 00 00 00 cb 40 23 b9 bc 5e f3 10 33 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1b 0f 6f 93 e2 15 bf cb 00 00 00 00 00 00 00 00 cb c0 33 ab c7 d1 c7 5e 17 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1b a1 71 f2 d8 96 83 cb 00 00 00 00 00 00 00 00 cb 40 18 5c b7 a6 c2 32 d4 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2e 2b bd 8c 1f db 3b cb 00 00 00 00 00 00 00 00 cb 3f ef e7 6f 20 52 3e 40 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2e 0f 20 95 ad 0d ee cb 00 00 00 00 00 00 00 00 cb 3f f8 b2 61 b3 2b bd 60 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1b b6 bb 2d 81 85 2a cb 00 00 00 00 00 00 00 00 cb c0 33 8e 62 e0 79 04 d3 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb 40 2e 40 7e d2 56 96 c8 cb 00 00 00 00 00 00 00 00 cb c0 14 fc 26 18 e9 24 c0 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1c 43 55 2d 0c 61 0c cb 00 00 00 00 00 00 00 00 cb c0 33 69 44 cc a8 1b d0 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2d f2 0c c2 2c 70 68 cb 00 00 00 00 00 00 00 00 cb 40 00 ca af cd 42 10 b0 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1c af a2 9a ed 48 26 cb 00 00 00 00 00 00 00 00 cb c0 33 3d e8 67 b2 a4 66 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 24 2d 65 88 1f fc fa cb 00 00 00 00 00 00 00 00 cb 40 0f 4c 47 31 42 b6 43 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2d de a1 4a fe 32 88 cb 00 00 00 00 00 00 00 00 cb 40 03 c2 61 2d 77 e6 b0 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2d c1 6c c7 80 32 6c cb 00 00 00 00 00 00 00 00 cb 40 08 38 de d8 ef 5b a0 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1c f9 c2 8e de 32 4a cb 00 00 00 00 00 00 00 00 cb c0 33 0e 39 ec 80 25 0a aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1d 3c bd a6 49 49 d2 cb 00 00 00 00 00 00 00 00 cb c0 32 dd d7 8c a8 fa 4a aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2d ae 19 16 21 82 46 cb 00 00 00 00 00 00 00 00 cb 40 0b 2c ee 3f 1c f8 b0 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2d 91 73 35 80 e0 1e cb 00 00 00 00 00 00 00 00 cb 40 0f 8d a0 0e 61 51 e0 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1d 90 77 83 8f 27 3c cb 00 00 00 00 00 00 00 00 cb c0 32 a1 5c 94 dc 04 da aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1d d3 72 9a fa 3e c4 cb 00 00 00 00 00 00 00 00 cb c0 32 70 fa 35 04 da 1a aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2d 7e 10 a8 80 77 19 cb 00 00 00 00 00 00 00 00 cb 40 11 41 fa 58 6a 0e f0 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2d 60 df 1d bc 67 d6 cb 00 00 00 00 00 00 00 00 cb 40 13 7c ff 0e 85 56 e0 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1e 16 6d b2 65 56 4c cb 00 00 00 00 00 00 00 00 cb c0 32 40 97 d5 2d af 5a aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1e 59 68 c9 d0 6d d4 cb 00 00 00 00 00 00 00 00 cb c0 32 10 35 75 56 84 9a aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2d 4d b5 06 88 f3 c4 cb 00 00 00 00 00 00 00 00 cb 40 14 f3 d9 06 d4 a4 18 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1e 9c 63 e1 3b 85 5c cb 00 00 00 00 00 00 00 00 cb c0 31 df d3 15 7f 59 da aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1e df 5e f8 a6 9c e4 cb 00 00 00 00 00 00 00 00 cb c0 31 af 70 b5 a8 2f 1a aa 71 75 61 74 65 72 ... >
+<Buffer 88 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2d 3a 22 ed e9 6c fa cb 00 00 00 00 00 00 00 00 cb 40 16 72 a5 52 16 70 78 aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1f 27 72 06 ad b5 63 cb 00 00 00 00 00 00 00 00 cb 40 1b 07 b5 1e 42 da dc aa 71 75 61 74 65 72 ... >
+<Buffer 83 a4 74 79 70 65 aa 64 69 73 63 6f 6e 6e 65 63 74 a4 75 75 69 64 d9 24 38 63 63 39 63 33 65 62 2d 33 66 61 36 2d 34 32 65 63 2d 62 38 39 64 2d 61 62 ... >
+<Buffer 88 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2d 13 3a 2b 31 45 31 cb 00 00 00 00 00 00 00 00 cb 40 19 6b b3 70 0f 7d e0 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1f 22 5a 10 11 b4 6c cb 00 00 00 00 00 00 00 00 cb c0 31 7f 0e 55 d1 04 5a aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1f 65 55 27 7c cb f4 cb 00 00 00 00 00 00 00 00 cb c0 31 4e ab f5 f9 d9 9a aa 71 75 61 74 65 72 ... >
+<Buffer 88 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 2c fc 20 b5 c2 6a 94 cb 00 00 00 00 00 00 00 00 cb 40 1b 2f 85 49 f3 31 a0 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1f a8 50 3e e7 e3 7c cb 00 00 00 00 00 00 00 00 cb c0 31 1e 49 96 22 ae da aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 1f eb 4b 56 52 fb 04 cb 00 00 00 00 00 00 00 00 cb c0 30 ed e7 36 4b 84 1a aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 20 1f 82 99 cc 6c 37 cb 00 00 00 00 00 00 00 00 cb c0 30 b1 6c 3e 7e 8e aa aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 20 41 00 25 81 f7 fb cb 00 00 00 00 00 00 00 00 cb c0 30 81 09 de a7 63 ea aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 20 62 7d b1 37 83 bf cb 00 00 00 00 00 00 00 00 cb c0 30 50 a7 7e d0 39 2a aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 20 83 fb 3c ed 0f 83 cb 00 00 00 00 00 00 00 00 cb c0 30 20 45 1e f9 0e 6a aa 71 75 61 74 65 72 ... >
+<Buffer 87 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb 40 1e 54 35 86 51 2e 14 cb 00 00 00 00 00 00 00 00 cb 3f e2 fe 7a c7 6c 6b 40 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 20 a5 78 c8 a2 9b 47 cb 00 00 00 00 00 00 00 00 cb c0 2f df c5 7e 43 c7 54 aa 71 75 61 74 65 72 ... >
+<Buffer 86 ad 77 6f 72 6c 64 50 6f 73 69 74 69 6f 6e 93 cb c0 20 c6 f6 54 58 27 0b cb 00 00 00 00 00 00 00 00 cb c0 2f 7f 00 be 95 71 d4 aa 71 75 61 74 65 72 ... >
+<Buffer 83 a4 74 79 70 65 ab 63 6c 69 65 6e 74 43 6f 75 6e 74 a5 63 6f 75 6e 74 d3 00 00 00 00 00 00 00 0c a4 74 69 6d 65 d3 00 00 01 92 e2 39 47 db>
+<Buffer 85 a4 74 79 70 65 a4 6e 61 6d 65 a4 75 75 69 64 d9 24 64 38 38 38 63 35 37 30 2d 36 30 35 62 2d 34 37 31 39 2d 39 38 39 31 2d 65 30 36 64 63 66 33 63 ... >
+got uuid d888c570-605b-4719-9891-e06dcf3c7362
+token payload eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJOYW1lIjoiQWxwaG9uc3VzIiwiRmxhZ0Vtb2ppIjoiIiwiSVAiOiIxNzguMTUwLjQyLjUiLCJleHAiOjE3MzA0NTg2NTd9.3KG_0uLDWHqJ3s6nI4zkLH2z1IumRx503RFzB9vj7MM
+[
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+  "eyJOYW1lIjoiQWxwaG9uc3VzIiwiRmxhZ0Vtb2ppIjoiIiwiSVAiOiIxNzguMTUwLjQyLjUiLCJleHAiOjE3MzA0NTg2NTd9",
+  "3KG_0uLDWHqJ3s6nI4zkLH2z1IumRx503RFzB9vj7MM"
+]
+[
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+  "eyJOYW1lIjoiQWxwaG9uc3VzIiwiRmxhZ0Vtb2ppIjoiIiwiSVAiOiIxNzguMTUwLjQyLjUiLCJleHAiOjE3MzA0NTg2NTV9",
+  "8R27vnnIVuNbmoanTFOHpNVvNQ2BrOU0ODQJ0YeVdws"
+]
+[
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+  "eyJOYW1lIjoiQWxwaG9uc3VzIiwiRmxhZ0Vtb2ppIjoiIiwiSVAiOiIxNzguMTUwLjQyLjUiLCJleHAiOjE3MzA0NTg2NTd9",
+  "3KG_0uLDWHqJ3s6nI4zkLH2z1IumRx503RFzB9vj7MM"
+]
+Websocket connection closed
