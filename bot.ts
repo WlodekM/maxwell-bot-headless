@@ -12,7 +12,7 @@ class GObject {
 export class Cat extends GObject {
     uuid: string = "";
     name: string = "";
-    flagEmoji: string = undefined;
+    flagEmoji?: string = undefined;
     latestEvent: number = 0;
     constructor(name?: string) {
         super()
@@ -192,7 +192,7 @@ export class Bot {
             ) {
                 // If we have a targetToken, check the distance to the rat - if it's close enough, we include the
                 // targetToken in the message to the server to gain a point for our country.
-                var includeTargetTokenInMessage = false
+                let includeTargetTokenInMessage = false
                 if (bot.targetToken !== undefined) {
                     const ratWorldPosition = bot.rat.position
                     const ratDistance = ratWorldPosition.distanceTo(catWorldPosition)
