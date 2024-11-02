@@ -83,8 +83,8 @@ export class Bot {
     onclose () {
         console.info("Websocket connection closed, reopening");
         this.world.clear()
-        // this.ws = new WebSocket("wss://worlds.twotwelve.uk/ws");
-        // this.initWebsockets(this)
+        this.ws = new WebSocket("wss://worlds.twotwelve.uk/ws");
+        this.initWebsockets(this)
     }
     
     transitionPosition(myCat: Cat, rat: Rat, duration: number = 50) {
@@ -132,12 +132,11 @@ export class Bot {
         //     worldConfig.myCat.rotateY(-1) // spin the cat, remove this line if you dont want the cat to spin
         // }, 500)
         console.log("got rat event, starting animation")
-        // transitionPosition(this.cat, this.rat)
+        this.transitionPosition(this.cat, this.rat) // TODO: FIXME
     }
 
     constructor () {
         this.initWebsockets(this);
-        
     }
 
     onlogin(bot: Bot) {
