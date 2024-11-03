@@ -8,5 +8,6 @@ This is a headless bot for maxwellcat.world
 - [x] Recieving events
 - [x] Stay connected
 - [ ] Move
+- [ ] Spin
 
 Current issue: the bot seems to dissapear when trying to move to the rat, needs further testing
